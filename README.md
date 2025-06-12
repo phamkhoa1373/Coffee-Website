@@ -13,16 +13,3 @@ _**Features**_
 
 * **Technologies Used**: HTML, CSS, JavaScript, Bootstrap, PHP, MySQL via PHPMyAdmin.
 
-
-_**Getting Started**_
-
-
-_**or**_
-
-* **Download the source file zip** : S O U R C E  C O D E.zip
-
-* **Import the SQL file (food_db.sql) provided in the project folder into PHPMyAdmin to set up the database.**
-
-* **Adjust the database connection settings in the PHP files to match your environment.**
-
-* **Open the project in a web server environment to start using the Food Ordering System.**
