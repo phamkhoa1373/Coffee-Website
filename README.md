@@ -16,8 +16,6 @@ _**Features**_
 
 _**Getting Started**_
 
-* **Clone the Repository**: 
-git clone https://github.com/your-username/food-ordering-system.git
 
 _**or**_
 
